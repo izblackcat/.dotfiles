@@ -17,6 +17,11 @@ local default_plugins = {
     branch = "v2.0",
     lazy = false,
   },
+  -- background thing : 
+  {
+    'typicode/bg.nvim',
+    lazy = false
+  },
 
   {
     "zbirenbaum/nvterm",
